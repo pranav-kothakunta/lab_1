@@ -1,4 +1,4 @@
-**Live Demo:** https://web-development-labs.onrender.com
+**Live Demo:** https://lab-1-1-ca0c.onrender.com/
 # Lab 1: Node.js and Express server
 
 **Name:** KOTHAKUNTA PRANAVGIT
