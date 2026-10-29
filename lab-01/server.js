@@ -6,8 +6,8 @@ app.get('/',(request,response)=> {
 
 app.get('/about',(request,response)=>{
     response.send({
-        name:"Bhukya Naveen",
-        setion:"CSE CORE"
+        name:"KOTHAKUNTA PRANAV",
+        setion:"CSE GAI"
     })
 });
 app.get('/time',(request,response)=>{
